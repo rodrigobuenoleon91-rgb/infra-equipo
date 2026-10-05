@@ -1,3 +1,4 @@
+# Servicios de la semana 7
 services:
   web:
     image: nginx:latest
