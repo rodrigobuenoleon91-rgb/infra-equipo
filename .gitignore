@@ -1,0 +1,7 @@
+.env
+*.bak
+*.log
+*.key
+
+# Archivos de entorno local
+.env.*
