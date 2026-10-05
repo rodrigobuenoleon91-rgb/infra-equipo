@@ -21,3 +21,6 @@ Servicio web desplegado con Docker Compose, versionado con Git y GitHub.
 
 ## Cómo detener
 `docker compose down`
+
+## Autor
+Rodrigo - Administración de Centros de Cómputo
