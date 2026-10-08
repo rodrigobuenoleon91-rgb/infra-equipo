@@ -5,3 +5,7 @@
 
 # Archivos de entorno local
 .env.*
+
+# Respaldos generados
+respaldos/
+*.tar.gz
