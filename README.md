@@ -28,3 +28,13 @@ Rodrigo - Administración de Centros de Cómputo
 ## Scripts
 - `scripts/respaldo.sh`: comprime `~/documentos` en `~/respaldos` con fecha y hora.
   Uso: `chmod +x scripts/respaldo.sh && ./scripts/respaldo.sh`
+
+## Reporte del sistema
+Captura del estado del servidor, generada con scripts/estado.py:
+
+```
+Equipo: ubuntu-server
+Disco usado: 73%
+Memoria libre: 6.4 GB
+Generado: 2026-10-08 20:05:01
+```
