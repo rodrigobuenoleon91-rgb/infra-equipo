@@ -24,3 +24,7 @@ Servicio web desplegado con Docker Compose, versionado con Git y GitHub.
 
 ## Autor
 Rodrigo - Administración de Centros de Cómputo
+
+## Scripts
+- `scripts/respaldo.sh`: comprime `~/documentos` en `~/respaldos` con fecha y hora.
+  Uso: `chmod +x scripts/respaldo.sh && ./scripts/respaldo.sh`
