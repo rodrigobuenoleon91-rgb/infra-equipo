@@ -28,3 +28,10 @@ Rodrigo - Administración de Centros de Cómputo
 ## Scripts
 - `scripts/respaldo.sh`: comprime `~/documentos` en `~/respaldos` con fecha y hora.
   Uso: `chmod +x scripts/respaldo.sh && ./scripts/respaldo.sh`
+
+## Proyecto integrador
+
+- [Requerimientos](docs/requisitos.md)
+- [Arquitectura](docs/arquitectura.md)
+- [Matriz de riesgos](docs/riesgos.md)
+- [Plan por etapas](docs/plan.md)
