@@ -38,3 +38,10 @@ Disco usado: 73%
 Memoria libre: 6.4 GB
 Generado: 2026-10-08 20:05:01
 ```
+
+## Proyecto integrador
+
+- [Requerimientos](docs/requisitos.md)
+- [Arquitectura](docs/arquitectura.md)
+- [Matriz de riesgos](docs/riesgos.md)
+- [Plan por etapas](docs/plan.md)

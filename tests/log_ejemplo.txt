@@ -1,0 +1,3 @@
+Oct 19 20:01:11 SERVIDOR sshd[1201]: Failed password for USUARIO from x.x.x.x port 51522 ssh2
+Oct 19 20:01:14 SERVIDOR sshd[1203]: Failed password for USUARIO from x.x.x.x port 51530 ssh2
+Oct 19 20:01:19 SERVIDOR sshd[1205]: Failed password for invalid user USUARIO from x.x.x.x port 51544 ssh2

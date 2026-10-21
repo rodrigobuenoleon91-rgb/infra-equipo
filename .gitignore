@@ -9,3 +9,7 @@
 # Respaldos generados
 respaldos/
 *.tar.gz
+.env
+*.tar.gz
+*.sha256
+log_original.txt
